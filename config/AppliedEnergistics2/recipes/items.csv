@@ -1810,7 +1810,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -2315,38 +2315,38 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
 ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -3222,7 +3222,6 @@ OpenComputers:waypoint:0, Waypoint
 OpenComputers:endstone:0, End Stone
 OpenComputers:netSplitter:0, Net Splitter
 OpenComputers:transposer:0, Transposer
-icbm:icbmDirectSiloConnector, Silo Control Computer
 icbm:SmallMissileWorkStation, Missile Workstation
 icbm:StandardMissileLauncher, Standard Launcher
 icbm:ICBMxAMS, AMS Turret
@@ -3230,6 +3229,7 @@ icbm:ICBMxFoF, FoF Station
 icbm:icbmCommandSiloDisplay, Silo Command Display
 icbm:icbmWarheadWorkstation, Warhead Station
 icbm:icbmSMAuto, Missile Station
+icbm:icbmDirectSiloConnector, Silo Control Computer
 icbm:warhead:0, Micro Warhead
 icbm:warhead:1, Small Warhead
 icbm:warhead:2, Warhead
